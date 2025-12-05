@@ -33,7 +33,7 @@
 ## Быстрый старт
 
 1. Клонирование репозитория
-git clone https://github.com/ваш-username/ConsoleApplication84.cpp.git
+git clone https://github.com/ваш-username/parallel-sum.cpp.git
 cd parallel-sum-cpp
 
 
