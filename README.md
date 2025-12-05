@@ -20,7 +20,7 @@
   
 ## Изменение количества потоков
 •	По умолчанию используется 4 потока. Чтобы изменить количество:
-•	Откройте файл parallel_sum.cpp
+•	Откройте файл ConsoleApplication84.cpp
 •	Найдите строку: const int DEFAULT_THREADS = 4;
 •	Измените значение на нужное количество потоков
 
@@ -33,7 +33,7 @@
 ## Быстрый старт
 
 1. Клонирование репозитория
-git clone https://github.com/ваш-username/parallel-sum-cpp.git
+git clone https://github.com/ваш-username/ConsoleApplication84.cpp.git
 cd parallel-sum-cpp
 
 
@@ -41,14 +41,14 @@ cd parallel-sum-cpp
 
 2. Компиляция
 Linux/macOS:
-g++ -std=c++11 -pthread parallel_sum.cpp -o parallel_sum
+g++ -std=c++11 -pthread ConsoleApplication84.cpp -o parallel_sum
 
 Windows (MinGW):
-g++ -std=c++11 parallel_sum.cpp -o parallel_sum.exe
+g++ -std=c++11 ConsoleApplication84.cpp -o parallel_sum.exe
 
 Windows (Visual Studio):
 1.	Создайте новый проект Console Application
-2.	Добавьте файл parallel_sum.cpp
+2.	Добавьте файл ConsoleApplication84.cpp
 3.	Установите стандарт C++11 в настройках проекта
 4.	Скомпилируйте проект
 
