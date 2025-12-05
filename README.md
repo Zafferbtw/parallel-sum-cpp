@@ -40,7 +40,7 @@ g++ -std=c++11 parallel_sum.cpp -o parallel_sum.exe
 
 Windows (Visual Studio):
 1.	Создайте новый проект Console Application
-2.	Добавьте файл parallel_sum.cpp
+2.	Добавьте файл ConsoleApplication84.cpp
 3.	Установите стандарт C++11 в настройках проекта
 4.	Скомпилируйте проект
 
